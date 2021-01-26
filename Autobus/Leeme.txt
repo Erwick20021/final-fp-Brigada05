@@ -1,0 +1,37 @@
+
+Autobus
+
+Objetivo:
+
+Hay un autobus moviéndose por la ciudad y sube y baja gente en cada parada.
+Se te dará una lista (o arreglo) de arreglos de enteros. Cada arreglo de enteros
+tiene dos elementos que representan el número de gente que sube y baja del autobus
+en una parada.
+Se debe calcular el número de personas que quedan en el autobus después de la última
+parada.
+
+Los datos a usar garantizan que el número de personas en el autobus siempre es
+mayor o igual a cero.
+
+El segundo valor del primer arreglo es cero porque al inicio el autobus está
+vacío.
+
+
+Ejemplo:
+
+3 0
+5 1
+2 1
+4 3
+0 8
+
+Queda 1 persona 
+
+
+1 0
+1 0
+5 1
+0 3
+1 1
+
+Quedan 3 personas 

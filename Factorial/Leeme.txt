@@ -1,0 +1,14 @@
+
+Factorial
+
+Objetivo:
+
+Calcular el factorial de un número entero positivo o cero.
+
+Ejemplos:
+
+factorial de 0 = 1
+factorial de 1 = 1
+factorial de 2 = 2
+factorial de 3 = 6
+factorial de 4 = 24

@@ -1,0 +1,17 @@
+
+Archivo
+
+Objetivo:
+
+Leer numeros enteros de un archivo csv (datos.csv), ordenarlos y escribirlos en 
+otro archivo (datos2.csv).
+
+Ejemplo:
+
+1,6,4,0,-3,5,9
+Se guarda como
+-3,0,1,4,5,6,9
+
+1,2,3,4,6,7,4
+Se guarda como
+1,2,3,4,4,6,7

@@ -1,0 +1,26 @@
+
+Máximo Múltiplo
+
+Objetivo:
+
+Dado un divisor y un límite, encontrar el entero n más grande tal que:
+
+n es divisible por el divisor
+n es menor o igual al límite
+n es mayor a cero
+divisor y limite son positivos
+El divisor existe para n
+
+Ejemplos:
+
+divisor=2
+limite=3
+n=2
+
+divisor=5
+limite=40
+n=40
+
+divisor=3
+limite=25
+n=24

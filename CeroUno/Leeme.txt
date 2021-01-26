@@ -1,0 +1,15 @@
+
+PhpCeroUno
+
+Objetivo:
+
+Validar que una cadena está formada por n ceros seguidos de n unos.
+Si es una cadena válida regresar TRUE. En caso contrario regresar FALSE.
+Si se evalua una cadena vacía o nula se debe regresar FALSE.
+
+Ejemplos de cadenas válidas:
+
+01
+0011
+000111
+00001111

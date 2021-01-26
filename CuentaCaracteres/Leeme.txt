@@ -1,0 +1,18 @@
+
+Cuenta Caracteres
+
+Objetivo:
+
+Contar las veces que se repite cada caracter en una cadena y obtener un arreglo
+con la clave de cada caracter y las veces que se repite.
+
+El arreglo resultante se guardará en uno de los parámetros que recibe la función.
+La función no regresa el arreglo.
+
+Ejemplos:
+
+alma
+{{97,2},{108,1},{109,1}}
+
+murcielago
+{{109,1},{117,1},{114,1},{99,1},{105,1},{101,1},{108,1},{97,1},{103,1},{111,1}}

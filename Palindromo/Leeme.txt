@@ -1,0 +1,13 @@
+
+Palíndromo
+
+Objetivo:
+
+Validar si una cadena es un palíndromo. Se lee igual de derecha a izquierda 
+que de izquierda a derecha. No se tomarán en cuenta diferencias entre mayúsculas
+y minúsculas ni los espacios.
+
+Ejemplos:
+
+anita lava la tina
+A Mafalda dad la fama

@@ -1,0 +1,30 @@
+
+Piramide
+
+Objetivo:
+
+Regresar una cadena a partir de un número entero n mayor a cero. 
+
+Si n = 1 regresa
+1
+
+Si n = 2 regresa
+1
+22
+
+Si n = 3 regresa
+1
+22
+333
+
+Si n = 10 regresa
+1
+22
+333
+4444
+55555
+666666
+7777777
+88888888
+999999999
+10101010101010101010

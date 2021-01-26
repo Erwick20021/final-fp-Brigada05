@@ -1,0 +1,16 @@
+
+Elemento Menor
+
+Objetivo:
+
+Buscar el elemento menor de un arreglo de enteros.
+
+Ejemplos:
+
+{4,7,9,-3,1}
+-3
+
+{1,8,0,9,-5,33,4,7,8,-12}
+-12
+
+

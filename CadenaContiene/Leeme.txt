@@ -1,0 +1,20 @@
+
+Cadena Contiene
+
+Objetivo:
+
+Validar si una cadena contiene a otra al inicio.
+
+Ejemplos:
+
+almacenes
+alma
+
+La respuesta es True
+
+
+gentrificacion
+gente
+
+La respuesta es False
+
